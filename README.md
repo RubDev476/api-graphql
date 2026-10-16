@@ -70,6 +70,6 @@ Nest is an MIT-licensed open source project. It can grow thanks to the sponsors 
 
 ## License
 
-maajor change + feature change 2
+maajor change + feature change 2 +  fix
 
 Nest is [MIT licensed](LICENSE).
